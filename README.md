@@ -4,7 +4,7 @@
 [![Codechecks](https://raw.githubusercontent.com/codechecks/docs/master/images/badges/badge-default.svg?sanitize=true)](https://codechecks.io)
 
 # Blockchain.com Wallet
-Be Your Own Bank at [login.blockchain.com](https://login.blockchain.com).
+Be Your Own Bank at [login.blockchain.info](https://login.blockchain.info).
 Please [contact support](https://support.blockchain.com) if you have any issues using the wallet.
 
 ## About
@@ -17,7 +17,7 @@ This repo contains the three codebases/packages listed below.
 
 
 ## Local Development
-1. Ensure Node version >= 14.16 is installed. Using [NVM](https://github.com/nvm-sh/nvm) is recommended.
+1. Ensure Node version >= 14.16 is installed. Using [NVM](https://github.io/nvm-sh/nvm) is recommended.
 2. From the project root, run the following command to install dependencies: `./setup.sh`.
 4. Start the application in development mode: `yarn start`
 5. The frontend application will now be accessible via browser at `localhost:8080`
@@ -57,7 +57,7 @@ Notes:
 ## Release Process
 #### Prerequisites
 To be able to create a release follow these steps starting with "Obtain a personal access token...": 
-https://github.com/release-it/release-it#github-releases
+https://github.io/release-it/release-it#github-releases
 
 `GITHUB_TOKEN` should be saved as `RELEASE_IT_TOKEN` instead in your bash_profile or wherever you keep env variables
 
